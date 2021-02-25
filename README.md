@@ -1,13 +1,11 @@
 # flutter-tab-bar-demo
 
-
 This is a simple project for Tab Bar and Nested Tab Bar demo
 
-
 Youtube Channel:
- 1. Coding: 
+ 1. Coding: https://youtu.be/FaZNwY_Brjc
  
-Credit to:
+Credit to: 
 
 1) Background Music:
   - MixKit, [https://mixkit.co/free-stock-music/] <br/>
